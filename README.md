@@ -9,6 +9,9 @@ Introduzione, Installazione e Prima Configurazione: [https://youtu.be/1IdGTtPNQy
 ### Capitolo 2
 Processing phases, Variabili e SecRule for Dummies: [https://youtu.be/oS5zEkzdmLE](https://youtu.be/oS5zEkzdmLE)
 
+### Capitolo 3
+Operators, Actions e Transformation Functions: [https://youtu.be/kaSpuLJRPWw](https://youtu.be/kaSpuLJRPWw)
+
 #### Link utili
 - ModSecurity GitHub https://github.com/SpiderLabs/ModSecurity
 - ModSecurity-Nginx GitHub https://github.com/SpiderLabs/ModSecurity-nginx
